@@ -1,2 +1,2 @@
 # NCFOCCGroupBox
-Not change font of children control in GroupBox.
+Not change font of child controls in GroupBox.
